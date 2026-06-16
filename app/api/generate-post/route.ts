@@ -81,7 +81,7 @@ The JSON structure must be:
         "X-Title": "Beyond Bots",
       },
       body: JSON.stringify({
-        model: "anthropic/claude-3.5-sonnet",
+        model: "openai/gpt-4o",
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: `Write an in-depth, expert-level blog post about: "${userTopic}". Make sure it is 1200-2000 words.` },

@@ -113,7 +113,7 @@ export default function Footer() {
                 Website: <Link href="/" className="text-zinc-200 hover:text-brand-orange">www.bb360.in</Link>
               </li>
               <li>
-                Email: <a href="mailto:hello@bb360.in" className="text-zinc-200 hover:text-brand-orange">hello@bb360.in</a>
+                Email: <a href="mailto:info@bb360.in" className="text-zinc-200 hover:text-brand-orange">info@bb360.in</a>
               </li>
             </ul>
           </div>

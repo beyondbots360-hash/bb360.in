@@ -115,7 +115,7 @@ export default function BloggerPage() {
     }
 
     setIsGenerating(true);
-    setAiStatus("Connecting to OpenRouter (Claude 3.5 Sonnet)...");
+    setAiStatus("Connecting to OpenRouter (ChatGPT - GPT-4o)...");
     setFormMessage("");
 
     try {
@@ -423,7 +423,7 @@ export default function BloggerPage() {
             {/* AI Generator Panel Card */}
             <div className="bg-brand-white border border-black/[0.08] p-6 rounded-[20px] shadow-sm">
               <h3 className="text-brand-orange text-sm font-bold uppercase tracking-wider mb-4 pb-2 border-b border-brand-orange/10">
-                2. AI Blog Drafter (Claude 3.5)
+                2. AI Blog Drafter (ChatGPT - GPT-4o)
               </h3>
               <div className="space-y-4">
                 <div className="flex flex-col space-y-2">

@@ -150,7 +150,7 @@ The homepage is organized into semantic content blocks. Each block is mapped to 
 - **Component:** `Footer`
 - **Semantic Tag:** `<footer>`
 - **Keywords Mapped:** `AI Automation Services India`, `Agentic AI Solutions`, `Web Development Company India`, `Digital Marketing Agency India`, `AI Powered Business Solutions`, `Website Development Services`, `Business Process Automation`
-- **Copy Focus:** Copyright, legal links, quick links (Home, About, Services, BB360, Contact), email (`hello@bb360.in`), and a dedicated SEO text block.
+- **Copy Focus:** Copyright, legal links, quick links (Home, About, Services, BB360, Contact), email (`info@bb360.in`), and a dedicated SEO text block.
 - **Internal Links:**
   - Quick Links → `#`, `#about`, `#services`, `#bb360`, `#contact`
   - Services links → `#services`
@@ -236,4 +236,4 @@ All links on the homepage utilize descriptive anchor text matching high-intent k
 | Footer Section | `Digital Marketing` | `#services` | Keyword anchor |
 | Footer Section | `AI Automation` | `#services` | Keyword anchor |
 | Footer Section | `SEO Services` | `#services` | Keyword anchor |
-| Footer Section | `hello@bb360.in` | `mailto:hello@bb360.in` | Direct action |
+| Footer Section | `info@bb360.in` | `mailto:info@bb360.in` | Direct action |

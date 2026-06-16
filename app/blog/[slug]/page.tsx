@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import { supabase } from "@/lib/supabase";
 import { marked } from "marked";
 
+export const dynamic = "force-dynamic";
+
 interface PageProps {
   params: Promise<{ slug: string }>;
 }

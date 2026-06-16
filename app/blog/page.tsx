@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import { supabase } from "@/lib/supabase";
 import BlogListingClient from "@/components/BlogListingClient";
 
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   title: "Insights & Blueprints",
   description: "Expert articles, blueprints, and strategies in AI Automation, Custom Web Development, and Performance Marketing to help your business scale.",
