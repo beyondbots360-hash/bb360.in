@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import AboutUs from "@/components/AboutUs";
 import WhyTrustUs from "@/components/WhyTrustUs";
+import NoRiskGuarantee from "@/components/NoRiskGuarantee";
 import ServicesList from "@/components/ServicesList";
 import BB360Intro from "@/components/BB360Intro";
 import Process from "@/components/Process";
@@ -15,6 +16,7 @@ export default function Home() {
       <WhyChooseUs />
       <AboutUs />
       <WhyTrustUs />
+      <NoRiskGuarantee />
       <ServicesList />
       <BB360Intro />
       <Process />

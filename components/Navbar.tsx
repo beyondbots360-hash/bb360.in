@@ -33,7 +33,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-10">
             <div className="flex space-x-8">
               <Link 
-                href="/#about" 
+                href="/about" 
                 className="text-xs font-bold tracking-widest text-zinc-400 hover:text-brand-orange transition-colors duration-200 focus:outline-2 focus:outline-brand-orange"
               >
                 ABOUT
@@ -105,7 +105,7 @@ export default function Navbar() {
         <div className="absolute top-20 left-0 w-full bg-brand-black border-b border-zinc-900 px-6 py-6 space-y-4 flex flex-col z-50 md:hidden animate-fade-in">
           <Link
             onClick={() => setIsOpen(false)}
-            href="/#about"
+            href="/about"
             className="text-xs font-bold tracking-widest text-zinc-400 hover:text-brand-orange py-2 border-b border-zinc-900"
           >
             ABOUT
