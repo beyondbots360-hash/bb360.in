@@ -1,0 +1,173 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #F65E1E;
+  --color-brand-black: #000000;
+  --color-brand-neutral: #F2F2F2;
+  --color-brand-white: #FFFFFF;
+  --color-brand-gray: #7A7A7A;
+  
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+}
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #000000;
+}
+
+html, body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Base Headings & Typography according to DESIGN_SYSTEM.md */
+h1 {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+@media (min-width: 768px) {
+  h1 { font-size: 48px; }
+}
+@media (min-width: 1025px) {
+  h1 { font-size: 64px; }
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+@media (min-width: 768px) {
+  h2 { font-size: 36px; }
+}
+@media (min-width: 1025px) {
+  h2 { font-size: 48px; }
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.3;
+}
+@media (min-width: 768px) {
+  h3 { font-size: 22px; }
+}
+@media (min-width: 1025px) {
+  h3 { font-size: 24px; }
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+@media (min-width: 1025px) {
+  body { font-size: 18px; }
+}
+
+/* Custom Spacing & Grid System from DESIGN_SYSTEM.md */
+.section-spacing {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+@media (min-width: 768px) {
+  .section-spacing {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media (min-width: 1025px) {
+  .section-spacing {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
+
+.site-container {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Custom Utilities for Geometric Grid Lines & High Contrast styling */
+.geometric-grid-dark {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: -240;
+  }
+}
+
+.animate-dash {
+  animation: dash 6s linear infinite;
+}
+
+/* Blog Content Typography */
+.blog-content h1 {
+  font-family: var(--font-sans), system-ui, sans-serif;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 1.2;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+@media (max-width: 768px) {
+  .blog-content h1 { font-size: 28px; }
+}
+.blog-content h2 {
+  font-family: var(--font-sans), system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.3;
+  color: #000000;
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+@media (max-width: 768px) {
+  .blog-content h2 { font-size: 20px; }
+}
+.blog-content h3 {
+  font-family: var(--font-sans), system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #000000;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+.blog-content p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #3f3f46;
+  margin-bottom: 16px;
+}
+.blog-content ul {
+  list-style-type: disc;
+  padding-left: 24px;
+  margin-bottom: 16px;
+}
+.blog-content li {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #3f3f46;
+  margin-bottom: 6px;
+}
+.blog-content strong {
+  font-weight: 700;
+  color: #000000;
+}
+
+

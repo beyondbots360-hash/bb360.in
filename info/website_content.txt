@@ -1,0 +1,363 @@
+CONTENT_MASTER.md
+
+Beyond Bots
+
+Complete Website Content & SEO Copy
+
+Domain: www.bb360.in
+
+
+
+GLOBAL SEO METADATA
+
+Homepage Meta Title
+
+Beyond Bots | AI Automation, Web Development & Digital Growth Solutions
+
+Homepage Meta Description
+
+Beyond Bots helps businesses scale with custom web development, AI-powered automation, agentic solutions, and digital marketing services. Build smarter, grow faster.
+
+Meta Keywords
+
+AI Automation Services India, Agentic AI Solutions, Web Development Company India, Digital Marketing Agency India, AI Powered Business Solutions, Website Development Services, Business Process Automation
+
+
+
+HOMEPAGE CONTENT
+
+HERO SECTION
+
+H1
+
+AI Automation, Web Development & Digital Growth Solutions for Modern Businesses
+
+Hero Description
+
+Beyond Bots helps businesses transform operations through intelligent automation, high-performance websites, and growth-focused digital marketing strategies. We build digital systems that reduce manual effort, improve efficiency, and accelerate business growth.
+
+CTA Buttons
+
+Primary: Book Free Consultation
+
+Secondary: Explore Services
+
+Trust Statement
+
+Serving startups, small businesses, and enterprises across India and globally.
+
+
+
+WHY BEYOND BOTS
+
+H2
+
+Why Businesses Choose Beyond Bots
+
+Custom Web Solutions
+
+We design and develop modern websites, web applications, and digital platforms tailored to your business goals.
+
+Agentic AI Automation
+
+From AI assistants to workflow automation, we create intelligent systems that streamline operations and reduce repetitive work.
+
+Digital Growth Strategies
+
+Our marketing solutions help businesses improve visibility, generate leads, and increase revenue.
+
+Scalable Infrastructure
+
+Every solution is built with scalability, security, and future growth in mind.
+
+
+
+ABOUT SECTION
+
+H2
+
+Bridging the Gap Between Business and Intelligent Technology
+
+Beyond Bots was founded to help businesses move beyond traditional processes and embrace intelligent digital systems.
+
+We combine modern web development, AI-powered automation, and strategic marketing to create solutions that drive measurable business outcomes.
+
+Our mission is simple:
+
+To help organizations automate smarter, operate faster, and grow sustainably through technology.
+
+Vision
+
+To become a trusted technology partner helping businesses build the future through intelligent digital transformation.
+
+Core Values
+
+Innovation
+
+Transparency
+
+Reliability
+
+Scalability
+
+Continuous Improvement
+
+
+
+SERVICES SECTION
+
+H2
+
+Intelligent Solutions For Growing Businesses
+
+
+
+WEB DEVELOPMENT
+
+H3
+
+Custom Web Development Services
+
+We create high-performance websites and web applications designed to attract customers and support business growth.
+
+Services Include
+
+Corporate Websites
+
+Business Websites
+
+E-Commerce Development
+
+Landing Pages
+
+Progressive Web Apps
+
+Custom Web Applications
+
+Website Maintenance
+
+CTA
+
+Build Your Website
+
+
+
+AI AGENTIC SOLUTIONS
+
+H3
+
+AI-Powered Business Automation
+
+Transform operations with intelligent AI systems that automate workflows and improve productivity.
+
+Services Include
+
+AI Assistants
+
+Customer Support Agents
+
+Workflow Automation
+
+Lead Qualification Agents
+
+Internal Knowledge Assistants
+
+Business Intelligence Solutions
+
+Custom AI Agent Development
+
+CTA
+
+Deploy AI Solutions
+
+
+
+DIGITAL MARKETING
+
+H3
+
+Data-Driven Digital Marketing
+
+Increase visibility, attract qualified leads, and accelerate growth through strategic digital marketing campaigns.
+
+Services Include
+
+Search Engine Optimization (SEO)
+
+Local SEO
+
+Content Marketing
+
+Social Media Marketing
+
+Lead Generation
+
+Performance Marketing
+
+Conversion Optimization
+
+CTA
+
+Drive Business Growth
+
+
+
+BB360 SECTION
+
+H2
+
+Meet BB360 — Your Digital Business Ecosystem
+
+BB360 is our integrated ecosystem designed to connect websites, AI automation, marketing operations, customer engagement, and business intelligence into one streamlined digital environment.
+
+Rather than managing disconnected tools, businesses can leverage a unified system that supports growth, efficiency, and smarter decision-making.
+
+Key Benefits
+
+Centralized Operations
+
+Automated Workflows
+
+Intelligent Insights
+
+Enhanced Customer Experience
+
+Business Growth Enablement
+
+
+
+PROCESS SECTION
+
+H2
+
+The Transformation Blueprint
+
+Discover
+
+We analyze your business processes, goals, and challenges to identify opportunities for digital transformation.
+
+Build
+
+Our team develops customized websites, AI solutions, and marketing systems tailored to your objectives.
+
+Automate
+
+We integrate automation technologies that reduce manual work and improve operational efficiency.
+
+Scale
+
+With intelligent systems in place, your business is positioned for sustainable growth and long-term success.
+
+
+
+FAQ SECTION
+
+H2
+
+Frequently Asked Questions
+
+What is an AI Agent?
+
+An AI agent is an intelligent software system that can perform tasks, make decisions, and automate workflows with minimal human intervention.
+
+How can AI automation help my business?
+
+AI automation reduces repetitive tasks, improves productivity, enhances customer experiences, and allows teams to focus on high-value activities.
+
+How long does website development take?
+
+Project timelines vary depending on complexity, but most business websites are completed within 2–6 weeks.
+
+Do you provide SEO services?
+
+Yes. We offer SEO strategies designed to improve search visibility, increase organic traffic, and generate qualified leads.
+
+Can Beyond Bots automate existing workflows?
+
+Absolutely. We can analyze current processes and implement AI-driven automation solutions that integrate with your existing systems.
+
+What industries do you work with?
+
+We work with startups, small businesses, professional services firms, e-commerce brands, and enterprise organizations across multiple industries.
+
+
+
+CONTACT SECTION
+
+H2
+
+Ready to Build Your Digital Workforce?
+
+Subheading
+
+Book Your Free Strategy Session
+
+Description
+
+Let’s discuss your goals and explore how web development, AI automation, and digital marketing can help your business scale faster.
+
+Form Fields
+
+Full Name
+
+Business Name
+
+Email Address
+
+Phone Number
+
+Service Interested In
+
+Project Description
+
+CTA Button
+
+Schedule Consultation
+
+
+
+FOOTER CONTENT
+
+Company Description
+
+Beyond Bots builds intelligent digital systems through custom web development, AI-powered automation, and growth-focused digital marketing.
+
+Quick Links
+
+Home
+
+About
+
+Services
+
+BB360
+
+Contact
+
+Services
+
+Web Development
+
+AI Agentic Solutions
+
+Digital Marketing
+
+AI Automation
+
+SEO Services
+
+Contact
+
+Website: www.bb360.in
+
+Email: hello@bb360.in
+
+Copyright
+
+© 2026 Beyond Bots. All Rights Reserved.
+
+
+
+SEO FOOTER TEXT
+
+Beyond Bots is an AI automation and web development company helping businesses leverage intelligent technology, digital transformation, custom websites, agentic AI solutions, workflow automation, and digital marketing services to achieve sustainable growth.
